@@ -8,7 +8,7 @@ from itertools import cycle
 
 
 #token
-token = 'Njg2OTc4NzI5OTA1NDg3OTY0.XmfMog._-3KaMs891ljk3m5RMZ92q1Hmrc'
+token = 'Njg2OTc4NzI5OTA1NDg3OTY0.XmfMog._-3KaMs891ljk3m5RMZ92q1Hmrc' #Obiously not real one :)
 #Prefix de commande pour le bot
 client = commands.Bot(command_prefix='.lg ')
 status = cycle(['En raffistolage.','En raffistolage.', "En raffistolage..", "En raffistolage..."])
